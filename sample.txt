@@ -1,0 +1,6 @@
+GitHub is an online platform where you store and manage your code using Git.
+
+It helps you:
+Save projects (repositories)
+Track changes (version control)
+Work with others (collaboration)
